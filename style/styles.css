@@ -1,0 +1,37 @@
+body{
+   font-family: Garamond, EB Garamond, Georgia, serif;
+
+   text-align: center;
+}
+img.logo{
+  margin: 10px auto 10px auto;
+
+}
+.header {
+
+
+  color:MediumVioletRed;
+
+  font-family: monospace;
+  width:300px;
+  margin: 10px auto 10px auto;
+  padding: 15px;
+  list-style-type: none;
+}
+.header li{
+  display: inline;
+  margin-right: 30px;
+}
+.header a:link{
+  color:MediumVioletRed;
+
+}
+.header a:visited{
+  color:MediumVioletRed;
+}
+.header a:hover{
+  color:PaleVioletRed;
+}
+.header a:active{
+  color:PaleVioletRed;
+}
