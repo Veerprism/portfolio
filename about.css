@@ -1,0 +1,25 @@
+#logo{
+  text-align: center;
+  }
+  .bg{
+    background-image:url("Images/owl2.jpeg");
+  }
+ img.owlcity{
+   float: left;
+ margin-right: 10px;
+ }
+ .about {
+ font-family: monospace;
+ color:MediumVioletRed;
+ margin-left: 10px;
+ width: 500px;
+ height: 667px;
+
+ padding: 15px;
+
+ float:left;
+ font-size: 100%;
+ border-left:1px solid black;
+
+ text-align: center;
+}

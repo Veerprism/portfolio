@@ -1,0 +1,39 @@
+body{
+   font-family:proxima-nova, EB Garamond, Georgia, serif;
+
+
+
+   text-align: center;
+}
+}
+
+ 
+.header {
+
+
+  color:MediumVioletRed;
+  font-family: monospace;
+  width:300px;
+  margin: 50px auto 50px auto;
+  padding: 15px;
+  list-style-type: none;
+  border-width: thick;
+}
+.header li{
+  display: inline;
+  text-decoration: none;
+  margin-right:10px;
+}
+.header a:link{
+  color:MediumVioletRed;
+
+}
+.header a:visited{
+  color:MediumVioletRed;
+}
+.header a:hover{
+  color:PaleVioletRed;
+}
+.header a:active{
+  color:PaleVioletRed;
+}
