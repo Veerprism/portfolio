@@ -1,0 +1,62 @@
+body{
+  background-color:#36486b;
+}
+#logo{
+  text-align: center;
+  margin: 50px auto 50px auto;
+  }
+  span.important{
+    font-style: italic;
+  }
+
+ img.owlcity{
+   float: left;
+ margin-right: 10px;
+ margin-left: 200px;
+ }
+ .about {
+ font-family: New Century Schoolbook, serif;
+ color:black;
+ margin-left: 50px;
+ width: 500px;
+ height: 667px;
+
+ padding: 15px;
+
+ float:right;
+ font-size: 100%;
+ border-left:1px solid black;
+
+ text-align: center;
+}
+.header {
+
+
+  color:MediumVioletRed;
+  font-family: monospace;
+  width:300px;
+  margin: 50px auto 50px auto;
+  padding: 15px;
+  list-style-type: none;
+  border-width: thick;
+
+}
+.header li{
+  display: inline;
+  text-decoration: none;
+  margin-right:10px;
+  font-family: monospace;
+}
+.header a:link{
+  color:MediumVioletRed;
+
+}
+.header a:visited{
+  color:MediumVioletRed;
+}
+.header a:hover{
+  color:PaleVioletRed;
+}
+.header a:active{
+  color:PaleVioletRed;
+}
