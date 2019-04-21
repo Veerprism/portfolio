@@ -1,15 +1,15 @@
 body{
-   font-family: Garamond, EB Garamond, Georgia, serif;
+   font-family: monospace, EB Garamond, Georgia, serif;
+   background: url(Images/bgimag.jpg);
+
 
    text-align: center;
 }
-
 
 .header {
 
 
   color:MediumVioletRed;
-
   font-family: monospace;
   width:300px;
   margin: 10px auto 10px auto;
@@ -18,7 +18,8 @@ body{
 }
 .header li{
   display: inline;
-  margin-right: 30px;
+  text-decoration: none;
+  margin-right:inherit;
 }
 .header a:link{
   color:MediumVioletRed;
