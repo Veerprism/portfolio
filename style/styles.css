@@ -1,25 +1,45 @@
 body{
-   font-family: monospace, EB Garamond, Georgia, serif;
-   background: url(Images/bgimag.jpg);
+   font-family:proxima-nova, EB Garamond, Georgia, serif;
+
 
 
    text-align: center;
 }
+}
 
+.about{
+  font-family: proxima;
+  color: pink;
+  padding: 15px;
+  height: 300px;
+  float: right;
+
+
+  border-left:1px solid black;
+  width: auto;
+  text-align: center;
+
+
+}
+.aboutpic{
+  width: inherit;
+  height: inherit;
+}
 .header {
 
 
   color:MediumVioletRed;
   font-family: monospace;
   width:300px;
-  margin: 10px auto 10px auto;
+  margin: 50px auto 50px auto;
   padding: 15px;
   list-style-type: none;
+  border-width: thick;
 }
 .header li{
   display: inline;
   text-decoration: none;
-  margin-right:inherit;
+  margin-right:10px;
 }
 .header a:link{
   color:MediumVioletRed;
