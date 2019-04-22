@@ -1,3 +1,47 @@
 body{
   background-color:#36486b;
 }
+.somefacts{
+  font-family: 'proxima-nova', sans-serif;
+  font-size: 14px;
+
+
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  padding:15px;
+  width:300px;
+  margin: 100px auto 200px auto;
+  font-size:100%;
+  border-color: black;
+}
+.header {
+
+
+  color:MediumVioletRed;
+  font-family: monospace;
+  width:300px;
+  margin: 50px auto 50px auto;
+  padding: 15px;
+  list-style-type: none;
+  border-width: thick;
+
+}
+.header li{
+  display: inline;
+  text-decoration: none;
+  margin-right:10px;
+  font-family: monospace;
+}
+.header a:link{
+  color:MediumVioletRed;
+
+}
+.header a:visited{
+  color:MediumVioletRed;
+}
+.header a:hover{
+  color:PaleVioletRed;
+}
+.header a:active{
+  color:PaleVioletRed;
+}
