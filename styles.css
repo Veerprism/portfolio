@@ -7,7 +7,7 @@ body{
 }
 }
 
- 
+
 .header {
 
 
@@ -18,11 +18,13 @@ body{
   padding: 15px;
   list-style-type: none;
   border-width: thick;
+
 }
 .header li{
   display: inline;
   text-decoration: none;
   margin-right:10px;
+  font-family: monospace;
 }
 .header a:link{
   color:MediumVioletRed;

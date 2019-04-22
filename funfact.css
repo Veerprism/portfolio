@@ -1,0 +1,15 @@
+body{
+  background-color:#36486b;
+}
+.somefacts{
+  font-family: 'proxima-nova', sans-serif;
+  font-size: 14px;
+
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  padding:15px;
+  width:300px;
+  margin: 100px auto 200px auto;
+  font-size:100%;
+  border-color: black;
+}

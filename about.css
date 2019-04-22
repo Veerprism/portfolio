@@ -1,23 +1,29 @@
+body{
+  background-color:#36486b;
+}
 #logo{
   text-align: center;
+  margin: 50px auto 50px auto;
   }
-  .bg{
-    background-image:url("Images/owl2.jpeg");
+  span.important{
+    font-style: italic;
   }
+
  img.owlcity{
    float: left;
  margin-right: 10px;
+ margin-left: 200px;
  }
  .about {
- font-family: monospace;
- color:MediumVioletRed;
- margin-left: 10px;
+ font-family: New Century Schoolbook, serif;
+ color:black;
+ margin-left: 50px;
  width: 500px;
  height: 667px;
 
  padding: 15px;
 
- float:left;
+ float:right;
  font-size: 100%;
  border-left:1px solid black;
 
