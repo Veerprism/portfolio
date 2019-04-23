@@ -1,16 +1,19 @@
-<h1>Repository name</h1>
-<p>Portfolio</p>
-
-<h1>Title</h1>
-<h3>A Personal Portfolio Website</h3>
-<p>This is a simple statc website about my personal portfolio with extra information encircling every aspect of my life</p>
-
-<h3>URL</h3>
-<p>https://t5.si/50f62</p>
-
-<h3>Author</h3>
-<p>Jasper Migiro</p>
-
-<h3>Built with</h3>
-<p>HTML</p>
-<p>CSS</p>
+# Title 
+Personal Portfolio
+#### 
+Description:This is a simple statc website about my personal portfolio with extra information encircling every aspect of my life, latest version
+#### By 
+Jasper Migiro only
+## Description
+{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+## Setup/Installation Requirements
+All  you need is a browser and a computer
+## Known Bugs
+No bugs so far
+## Technologies used
+HTML and CSS only.
+## Support and contact details
+You can reach me via:0724036732
+Email: jkmigiro@gmail.com
+# Lisence
+Free to use
